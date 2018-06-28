@@ -5,7 +5,12 @@ Personal list/reminder of useful scala libraries / plugins
 
 | Plugin/Link | Description |
 | ----------- | ----------- |
-|
+| [curryhoward](https://github.com/Chymyst/curryhoward) | Automatic code generation for Scala functions and expressions via the Curry-Howard isomorphism
+| [Scalaz](https://github.com/scalaz/scalaz) | Principled functional programming in Scala
+| [Scalaz-zio](https://github.com/scalaz/scalaz-zio) | Principled, powerful, standalone effect data type (i.e. a better, faster, smarter Future)
+| [Scalaz-deriving](https://gitlab.com/fommil/scalaz-deriving/) | Derive typeclass instances for data types (faster compiles & runtime) |
+| [scala-newtype](https://github.com/estatico/scala-newtype) | Newtypes for Scala with no runtime overhead |
+| [simulacrum](https://github.com/mpilquist/simulacrum) | First class syntax support for type classes
 
 ## Scala Compiler Plugins
 
