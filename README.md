@@ -16,6 +16,7 @@ Personal list/reminder of useful scala libraries / plugins
 | [Kind-projector](https://github.com/non/kind-projector) | make type lambdas (type projects) easier to write |
 | [literal-types](https://github.com/jeremyrsmith/literal-types) | Literal types without needing to depend on Shapeless for it's `Witness` type |
 | [Macros Paraise](https://github.com/scalamacros/paradise) | *** |
+| [Miniboxing](https://github.com/miniboxing/miniboxing-plugin) |
 | [Scalaz Plugin](https://github.com/scalaz/scalaz-plugin) | improvement on Scalazz-safe subset of Scala |
 | [Silencer](https://github.com/ghik/silencer) | Annotation for silencing all warnings on classes/methods/statements |
 | [splain](https://github.com/oleg-py/better-monadic-for) | removes redundant compiler output and prints additional info for implicit resolution errors |
